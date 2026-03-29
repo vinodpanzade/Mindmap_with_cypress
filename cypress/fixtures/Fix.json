@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Vinod",
+    "lastName": "Panzade",
+    "email": "vinod12@gmail.com",
+    "age": 23,
+    "salary": 22000,
+    "department": "BSG"
+  },
+  {
+    "firstName": "Sandeep",
+    "lastName": "Prajapati",
+    "email": "sandeep12@gmail.com",
+    "age": 30,
+    "salary": 44000,
+    "department": "BSG-group"
+  },
+  {
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "email": "rahul123@gmail.com",
+    "age": 28,
+    "salary": 30000,
+    "department": "IT"
+  }
+]
