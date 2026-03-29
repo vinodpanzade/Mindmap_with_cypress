@@ -140,7 +140,7 @@ npx cypress open
 
 ---
 
-![Uploading Architecure.png…]()
+
 
 
 ## ✨ Final Thought
